@@ -1,5 +1,5 @@
-let maximum = (a, b) => {
+let greater = (a, b) => {
   return a > b ? a : b
 }
 
-console.log(maximum(5, 4))
+console.log(greater(5, 4))
